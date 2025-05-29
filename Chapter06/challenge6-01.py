@@ -1,4 +1,4 @@
 s="カミュ"
 
-for i in s:
-    print(i)
+for w in s:
+    print(w)
